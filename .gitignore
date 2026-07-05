@@ -1,0 +1,4 @@
+.DS_Store
+secrets.yaml
+.esphome/
+*.kicad_sch.lck
